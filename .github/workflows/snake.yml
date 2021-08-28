@@ -1,4 +1,4 @@
-name: generate animation
+name: generate snake animation
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Jobs to update data
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
