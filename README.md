@@ -2,10 +2,13 @@
 
 My name is `Farid`, I'm a `Network Engineering` from `Indonesian`.
 
-- 🔭 I’m currently working on Personal Project
+- 🔭 I’m currently working on: Personal Project
 - 🌱 I’m currently learning CSS, JavaScript, NodeJS ,other Javascript Framework and everything 🤣
 - 🎓 I'm Vocational School Student
+- 👾 Fun fact: I <span style="color:pink">ONCE</span> and my bias Tzuyu❤️
 
+<br>
+<br>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -28,6 +31,10 @@ My name is `Farid`, I'm a `Network Engineering` from `Indonesian`.
   <img title="Fastly" height="28" width="34px" src="https://www.svgrepo.com/show/353730/fastly.svg">
   <img title="Netlify" height="28" width="34px" src="https://www.svgrepo.com/show/354110/netlify.svg">
   <img title="Wordpress" height="28" width="34px" src="https://www.svgrepo.com/show/217790/wordpress.svg">
+  <img title="Mikrotik" height="28" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/MikroTik_logo.svg">
+  <img title="PfSense" height="28" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/PfSense_logo.svg">
+  <img title="Ubiquiti" height="28" width="34px" src="https://www.svgrepo.com/show/349542/ubiquiti.svg">
+  <img title="Fortinet" height="28" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Fortinet_logo.svg">
   <!-- <img title="" height="28" width="34px" src=""> -->
 </p>
 <hr>
