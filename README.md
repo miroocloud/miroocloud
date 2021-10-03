@@ -55,6 +55,6 @@ My name is `Farid`, I'm a `Network Engineering` from `Indonesian`.
 <!-- Variable -->
 
 [wave]: https://cdn.statically.io/img/i.imgur.com/w=20/mbOk4Sm.gif
-[metrics-achievements]: https://metrics.lecoq.io/yuimatcha?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta
+[metrics-achievements]: https://raw.githubusercontent.com/yuimatcha/yuimatcha/master/github-metrics.svg
 [snake animation]: https://raw.githubusercontent.com/yuimatcha/yuimatcha/output/github-contribution-grid-snake.svg
 [spotify-github-profile]: https://spotify-github-profile.vercel.app/api/view?uid=twhldi22qw4olbchk87zwy42b&cover_image=true&theme=novatorem
