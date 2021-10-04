@@ -2,12 +2,12 @@
 
 My name is `Farid`, I'm a `Network Engineering` from `Indonesian`.
 
-- 🔭 I’m currently working on: Personal Project
+- 🔭 I’m currently working on Personal Project and Multiple Network Projects
 - 🌱 I’m currently learning CSS, JavaScript, NodeJS ,other Javascript Framework and everything 🤣
 - 🎓 I'm Vocational School Student
+- 📫 How to reach me: [Instagram/@faridhnzz], [Twitter/@faridhnzz], Discord/@Lynnn
 - 👾 Fun fact: I <span style="color:pink">ONCE</span> and my bias Tzuyu❤️
 
-<br>
 <br>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -58,3 +58,7 @@ My name is `Farid`, I'm a `Network Engineering` from `Indonesian`.
 [metrics-achievements]: https://raw.githubusercontent.com/yuimatcha/yuimatcha/master/github-metrics.svg
 [snake animation]: https://raw.githubusercontent.com/yuimatcha/yuimatcha/output/github-contribution-grid-snake.svg
 [spotify-github-profile]: https://spotify-github-profile.vercel.app/api/view?uid=twhldi22qw4olbchk87zwy42b&cover_image=true&theme=novatorem
+
+<!-- IG -->
+[Instagram/@faridhnzz]: https://www.instagram.com/faridhnzz
+[Twitter/@faridhnzz]: https://twitter.com/faridhnzz
