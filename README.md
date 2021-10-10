@@ -6,7 +6,7 @@ My name is `Farid`, I'm a `Network Engineering` from `Indonesian`.
 - 🌱 I’m currently learning CSS, JavaScript, NodeJS ,other Javascript Framework and everything 🤣
 - 🎓 I'm Vocational School Student
 - 📫 How to reach me: [Instagram/@faridhnzz], [Twitter/@faridhnzz], Discord/@Lynnn
-- 👾 Fun fact: I <span style="color:pink">ONCE</span> and my bias Tzuyu❤️
+- 👾 Fun fact: I <span style="color:pink">ONCE</span> and my bias Dahyun❤️
 
 <br>
 <hr>
