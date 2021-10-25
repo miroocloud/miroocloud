@@ -16,7 +16,7 @@ My name is `Farid`, I'm a `Network Engineering` from `Indonesian`.
   <img title="HTML" height="28" width="34px" src="https://www.svgrepo.com/show/349402/html5.svg">
   <img title="CSS" height="28" width="34px" src="https://www.svgrepo.com/show/349330/css3.svg">
   <img title="Javascript" height="28" width="34px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
-  <img title="Javascript" height="28" width="34px" src="https://www.svgrepo.com/show/354310/sass.svg">
+  <img title="Sass" height="28" width="34px" src="https://www.svgrepo.com/show/349502/sass.svg">
   <img title="Jekyll" height="28" width="34px" src="https://www.svgrepo.com/show/353927/jekyll.svg">
   <img title="Hugo" height="28" width="34px" src="https://www.svgrepo.com/show/353888/hugo.svg">
   <img title="VS Code" height="28" width="34px" src="https://www.svgrepo.com/show/303535/visual-studio-code-logo.svg">
