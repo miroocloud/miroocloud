@@ -1,4 +1,4 @@
-## Hi there! ![Wave]
+## Hi there! ![Wave] ![Visitor Badge]
 
 My name is `Farid`, I'm a `Network Engineering` from `Indonesian`.
 
@@ -59,7 +59,8 @@ My name is `Farid`, I'm a `Network Engineering` from `Indonesian`.
 [metrics-achievements]: https://raw.githubusercontent.com/yuimatcha/yuimatcha/master/github-metrics.svg
 [snake animation]: https://raw.githubusercontent.com/yuimatcha/yuimatcha/output/github-contribution-grid-snake.svg
 [spotify-github-profile]: https://spotify-github-profile.vercel.app/api/view?uid=twhldi22qw4olbchk87zwy42b&cover_image=true&theme=novatorem
+[Visitor Badge]: https://visitor-badges.glitch.me?username=faridnizam&repo=faridnizam&label=VISITOR&style=flat&color=%23457BFF&token=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&contentType=svg
 
-<!-- IG -->
+<!-- Sosmed -->
 [Instagram/@faridhnzz]: https://www.instagram.com/faridhnzz
 [Twitter/@faridhnzz]: https://twitter.com/faridhnzz
