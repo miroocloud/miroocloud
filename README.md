@@ -1,12 +1,12 @@
-## Hi there! ![Wave] ![Visitor Badge]
+## Hi there! <img width="30px" src="https://i.imgur.com/mbOk4Sm.gif"> ![Visitor Badge]
 
 My name is `Farid`, I'm a `Network Engineering` from `Indonesian`.
 
-- 🔭 I’m currently working on Personal Project and Multiple Network Projects
+- 🔭 I’m currently working on Personal Project and Open Source Project
 - 🌱 I’m currently learning CSS, JavaScript, NodeJS ,other Javascript Framework and everything 🤣
 - 🎓 I'm Vocational School Student
 - 📫 How to reach me: [Instagram/@faridhnzz], [Twitter/@faridhnzz], Discord/@Lynnn
-- 👾 Fun fact: I <span style="color:pink">ONCE</span> and my bias Dahyun❤️
+- 👾 Fun fact: I ONCE and my bias Dahyun❤️
 
 <br>
 <hr>
@@ -52,14 +52,15 @@ My name is `Farid`, I'm a `Network Engineering` from `Indonesian`.
 </details>
 
 ![Snake animation]
+![](https://hit.yhype.me/github/profile?user_id=29797712)
 
 <!-- Variable -->
 
-[wave]: https://cdn.statically.io/img/i.imgur.com/w=20/mbOk4Sm.gif
-[metrics-achievements]: https://raw.githubusercontent.com/yuimatcha/yuimatcha/master/github-metrics.svg
-[snake animation]: https://raw.githubusercontent.com/yuimatcha/yuimatcha/output/github-contribution-grid-snake.svg
+[wave]: https://i.imgur.com/mbOk4Sm.gif
+[metrics-achievements]: https://raw.githubusercontent.com/faridnizam/faridnizam/master/github-metrics.svg
+[snake animation]: https://raw.githubusercontent.com/faridnizam/faridnizam/output/github-contribution-grid-snake.svg
 [spotify-github-profile]: https://spotify-github-profile.vercel.app/api/view?uid=twhldi22qw4olbchk87zwy42b&cover_image=true&theme=novatorem
-[Visitor Badge]: https://visitor-badges.glitch.me?username=faridnizam&repo=faridnizam&label=VISITOR&style=flat&color=%23457BFF&token=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&contentType=svg
+[Visitor Badge]: https://komarev.com/ghpvc/?username=faridnizam
 
 <!-- Sosmed -->
 [Instagram/@faridhnzz]: https://www.instagram.com/faridhnzz
