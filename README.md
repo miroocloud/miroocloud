@@ -2,12 +2,8 @@
 
 ## Hi there! <img width="30px" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif">
 
-> My name is <span style="color: aqua;">Farid Nizam</span>, I'm a Network Engineering from Indonesian.<br>
+> My name is Farid>, I'm a Network Engineering from Indonesian.<br>
 > I am always eager to learn new technologies <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif">
-
-```js
-`asciidocBlue text in Discord--`;
-```
 
 - :telescope: I’m currently working on Personal Project and Open Source Project
 - :seedling: I’m currently learning CSS, JavaScript, Node ,other Javascript Framework and everything <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif">
