@@ -2,8 +2,12 @@
 
 ## Hi there! <img width="30px" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif">
 
-> My name is `Farid`, I'm a `Network Engineering` from `Indonesian`.<br>
+> My name is <span style="color: aqua;">Farid Nizam</span>, I'm a Network Engineering from Indonesian.<br>
 > I am always eager to learn new technologies <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif">
+
+```js
+`asciidocBlue text in Discord--`;
+```
 
 - :telescope: I’m currently working on Personal Project and Open Source Project
 - :seedling: I’m currently learning CSS, JavaScript, Node ,other Javascript Framework and everything <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1584726180/8270/blob-dance.gif">
@@ -13,7 +17,9 @@
 
 <br>
 <h2 align="center"><img width="28px" src="https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif"> Languages & Frameworks & Tools & Abilities <img width="28px" src="https://emojis.slackmojis.com/emojis/images/1619774527/34482/fire.gif"></h2>
-<hr>
+
+---
+
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,12 +27,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/jekyll-%23323330.svg?style=for-the-badge&logo=jekyll&logoColor=red)
-![Hugo](https://img.shields.io/badge/hugo-hotpink.svg?style=for-the-badge&logo=hugo&logoColor=white)
+![Hugo](https://img.shields.io/badge/hugo-white.svg?style=for-the-badge&logo=hugo&logoColor=ff69b4)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Linode](https://img.shields.io/badge/linode-white.svg?style=for-the-badge&logo=linode&logoColor=%C8167E)
+![Linode](https://img.shields.io/badge/linode-white.svg?style=for-the-badge&logo=linode&logoColor=brightgreen)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -43,11 +50,11 @@
 <br>
 <!-- <hr> -->
 
-### <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1615393977/18825/02_fingers.gif"> Spotify Playing
+### <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif"> Spotify Playing
 
 ---
 
-[![spotify-github-profile]](https://spotify-github-profile.vercel.app/api/view?uid=twhldi22qw4olbchk87zwy42b&redirect=true)
+[![spotify-github-profile]](https://spotify-github-profile.vercel.app/api/view?uid=twhldi22qw4olbchk87zwy42b&redirect=true) <img src="https://emojis.slackmojis.com/emojis/images/1615393371/18822/02_dance.gif"> <img src="https://emojis.slackmojis.com/emojis/images/1615393977/18825/02_fingers.gif">
 
 ### <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif"> My Stats
 
