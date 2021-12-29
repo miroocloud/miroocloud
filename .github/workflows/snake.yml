@@ -2,9 +2,9 @@ name: generate snake animation
 
 on:
   schedule:
-    - cron: "* */8 * * *"
+    - cron: '* */8 * * *'
   workflow_dispatch:
-  push: { branches: ['master', 'main'] } 
+  push: { branches: ['master', 'main'] }
 jobs:
   build:
     name: Snake Animation Update Data
