@@ -1,6 +1,6 @@
 ![Visitor Badge]
 
-## Hi there! <img width="30px" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif">
+## Hi there! <img width="30px" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif"> <img width="30px" src="https://cdn.discordapp.com/emojis/917344419932418058.gif">
 
 > My name is Farid, I'm a Network Engineering from Indonesian.<br>
 > I am always eager to learn new technologies <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif">
