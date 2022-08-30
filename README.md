@@ -7,7 +7,6 @@ I'm `Farid` a `Network Engineering` from `Indonesia`.
 
 
 ### 🎧 Spotify Playing
-
 [![spotify-github-profile]](https://spotify-github-profile.vercel.app/api/view?uid=twhldi22qw4olbchk87zwy42b&redirect=true)
 
 <p>
@@ -25,7 +24,7 @@ I'm `Farid` a `Network Engineering` from `Indonesia`.
 </p>
 
 ![Snake animation]
-<img style="bottom: 800px;" src="https://imgur.com/rilHVxA.png"/>
+<!-- <img style="bottom: 800px;" src="https://imgur.com/rilHVxA.png"/> -->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
 
