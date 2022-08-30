@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
           # Options
-          user: faridnizam
+          user: faridhnzz
           template: classic
           base: ''
           config_timezone: Asia/Jakarta
@@ -24,4 +24,3 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-
