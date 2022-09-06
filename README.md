@@ -7,9 +7,6 @@ I'm `Farid` a `Network Engineering` from `Indonesia`.
 - 📫 How to reach me: [me@farid.cyou]
 - 🔗  Connect with me: [Instagram], [Twitter], [Polywork]
 
-<br>
-
-
 ### 🎧 Spotify Playing
 ---
 [![spotify-github-profile]](https://spotify-github-profile.vercel.app/api/view?uid=twhldi22qw4olbchk87zwy42b&redirect=true)
