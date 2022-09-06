@@ -1,9 +1,7 @@
 ## Hi there! <img width="30px" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif"> ![Visitor Badge]
----
 
 
 I'm `Farid` a `Network Engineering` from `Indonesia`.
-I always learn new technologies <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif">
 
 - 🔭 I’m currently working on Personal Project and Open Source Project.
 - 📫 How to reach me: [me@farid.cyou]
