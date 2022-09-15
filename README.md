@@ -4,7 +4,7 @@
 I'm `Farid` a `Network Engineering` from `Indonesia`.
 
 - 🔭 I’m currently working on Personal Project and Open Source Project.
-- 📫 How to reach me: [me@farid.cyou]
+- 📫 How to reach me: [hi@nanyaterus.com]
 - 🔗  Connect with me: [Instagram], [Twitter], [Polywork]
 
 ### 🎧 Spotify Playing
@@ -27,5 +27,5 @@ I'm `Farid` a `Network Engineering` from `Indonesia`.
 <!-- Sosmed -->
 [Instagram]: https://www.instagram.com/faridhnzz
 [Twitter]: https://twitter.com/faridhnzz
-[me@farid.cyou]: mailto:me@farid.cyou
+[hi@nanyaterus.com]: mailto:hi@nanyaterus.com
 [Polywork]: https://poly.me/faridnizam
