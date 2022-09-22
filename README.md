@@ -27,5 +27,5 @@ I'm `Farid` a `Network Engineering` from `Indonesia`.
 <!-- Sosmed -->
 [Instagram]: https://www.instagram.com/faridhnzz
 [Twitter]: https://twitter.com/faridhnzz
-[hi@nanyaterus.com]: mailto:hi@nanyaterus.com
+[hi@nanyaterus.com]: mailto:hi@nanyaterus.com?cc=farid@nanyaterus.com
 [Polywork]: https://poly.me/faridnizam
