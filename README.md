@@ -2,7 +2,7 @@
 
 
 I'm `Farid` a `Network Engineering` from `Indonesia`. <br>
-Just an ordinary, random, weird person on github with a passion for making a mess of things.
+Just an ordinary, random, weird person on github.
 
 - 🔭 I’m currently working on Personal Project and Open Source Project.
 - 📫 How to reach me: [hi@nanyaterus.com]
