@@ -24,7 +24,7 @@ Just an ordinary, random and weird person.
 [metrics-achievements]: https://raw.githubusercontent.com/faridhnzz/faridhnzz/master/github-metrics.svg
 [snake animation]: https://raw.githubusercontent.com/faridhnzz/faridhnzz/output/github-contribution-grid-snake.svg
 [spotify-github-profile]: https://spotify-github-profile.vercel.app/api/view?uid=twhldi22qw4olbchk87zwy42b&cover_image=true&theme=novatorem
-[Visitor Badge]: https://komarev.com/ghpvc/?username=faridhnzz
+[Visitor Badge]: https://gh-hits.vercel.app/view?username=faridhnzz
 [Hits]: https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Ffaridhnzz
 [wakatime]: https://wakatime.com/badge/user/5419b4c2-b088-4f88-bea6-1acf232a8a0e.svg
 
