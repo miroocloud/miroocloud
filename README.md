@@ -5,7 +5,6 @@ I'm `Farid` a `Network Engineering` from `Indonesia`. <br>
 Just an ordinary, random and weird person.
 
 - 🔭 I’m currently working on Personal Project and Open Source Project.
-- 📫 How to reach me: [hi@nanyaterus.com]
 - 🔗  Connect with me: [Instagram], [Twitter], [Polywork]
 
 ### 🎧 Spotify Playing
