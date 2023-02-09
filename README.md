@@ -28,9 +28,9 @@ Just an ordinary, random and weird person.
 [wakatime]: https://wakatime.com/badge/user/5419b4c2-b088-4f88-bea6-1acf232a8a0e.svg
 
 <!-- Sosmed -->
-[Instagram]: https://www.instagram.com/faridhnzz
-[Twitter]: https://twitter.com/faridhnzz
+[Instagram]: https://go.fayln.com/instagram
+[Twitter]: https://go.fayln.com/twitter
 [hi@nanyaterus.com]: mailto:hi@nanyaterus.com
-[Polywork]: https://poly.me/faridnizam
+[Polywork]: https://go.fayln.com/polywork
 
 <!-- +++++++++++++++++++++++++++++++ -->
