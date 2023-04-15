@@ -1,7 +1,7 @@
 ## Hi there! <img width="30px" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif"> ![Visitor Badge] [![wakatime]](https://wakatime.com/@5419b4c2-b088-4f88-bea6-1acf232a8a0e)
 
 
-I'm `Farid` a `Network Engineering` from `Indonesia`. <br>
+I'm `Farid` a `Network Engineering`. <br>
 Just an ordinary, random and weird person.
 
 - 🔭 I’m currently working on Personal Project and Open Source Project.
