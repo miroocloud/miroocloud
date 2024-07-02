@@ -1,11 +1,9 @@
 name: Snake Animation
 on:
-  schedule:
-    - cron: "0 */24 * * *" 
   workflow_dispatch:
-  push:
-    branches:
-    - master
+  schedule:
+    - cron: "0 */24 * * *"
+
 jobs:
   build:
     name: Snake Animation Update
