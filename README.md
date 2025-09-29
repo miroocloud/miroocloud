@@ -12,8 +12,6 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C004%20hrs%201%20min-blue)
-
 **I'm a Night 🦉** 
 
 ```text
