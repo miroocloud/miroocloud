@@ -27,11 +27,10 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               19 mins             █████████████████████████   99.92 % 
-jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
