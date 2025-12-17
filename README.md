@@ -26,7 +26,7 @@
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      1 hr 12 mins        █████████████████████████   100.0%
 
 ```
 
@@ -43,7 +43,7 @@ HTML                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2025
+ Last Updated on 17/12/2025
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
