@@ -26,20 +26,20 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.66% 
-JavaScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
-jsonc                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
-PHP                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
-Blade Template           35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.98%
+Python                   2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.51% 
+PHP                      1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29% 
+JavaScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
+jsonc                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.08% 
+JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.84%
 
 🔥 Editors: 
-Zed                      5 hrs 51 mins       █████████████████████████   99.96% 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+Zed                      7 hrs 12 mins       █████████████████████████   99.97% 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
 
 
- Last Updated on 23/03/2026
+ Last Updated on 24/03/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
