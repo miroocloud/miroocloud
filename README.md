@@ -26,19 +26,19 @@
 
 ```text
 💬 Programming Languages: 
-Blade Template           5 hrs 58 mins       ████████████████████░░░░░   81.72% 
-JavaScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
+Blade Template           8 hrs 1 min         ████████████████████░░░░░   82.56% 
+JavaScript               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.01% 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 🔥 Editors: 
-Zed                      7 hrs 18 mins       █████████████████████████   100.0%
+Zed                      9 hrs 43 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/04/2026
+ Last Updated on 17/04/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
