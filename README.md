@@ -26,20 +26,20 @@
 
 ```text
 💬 Programming Languages: 
-Blade Template           1 hr 49 mins        ████████████░░░░░░░░░░░░░   48.46% 
-Python                   1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   30.88% 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.7% 
-shell script             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14%
+Python                   2 hrs 11 mins       ███████████████████░░░░░░   75.94% 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
+shell script             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.12% 
+PHP                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77%
 
 🔥 Editors: 
-Zed                      3 hrs 33 mins       ███████████████████████░░   94.28% 
-Unknown Editor           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.72%
+Zed                      2 hrs 39 mins       ███████████████████████░░   92.5% 
+Unknown Editor           12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
 
 ```
 
 
- Last Updated on 03/05/2026
+ Last Updated on 04/05/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
