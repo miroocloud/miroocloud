@@ -26,19 +26,19 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   40.26% 
-Rust                     1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   32.3% 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
-C++                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+Python                   2 hrs 24 mins       ████████████░░░░░░░░░░░░░   51.35% 
+Rust                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   27.07% 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
+C++                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07%
 
 🔥 Editors: 
-Zed                      3 hrs 56 mins       █████████████████████████   100.0%
+Zed                      4 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 15/05/2026
+ Last Updated on 16/05/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
