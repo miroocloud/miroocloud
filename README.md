@@ -26,15 +26,15 @@
 
 ```text
 💬 Programming Languages: 
-shell script             13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 23/05/2026
+ Last Updated on 24/05/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
