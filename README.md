@@ -26,15 +26,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Docker                   13 mins             ███████████████░░░░░░░░░░   61.77% 
+Text                     6 mins              ███████░░░░░░░░░░░░░░░░░░   30.8% 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/05/2026
+ Last Updated on 31/05/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
