@@ -26,20 +26,20 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     4 hrs 18 mins       █████████████░░░░░░░░░░░░   53.21% 
-Other                    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
-Python                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
-INI                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.02%
+Bash                     4 hrs 43 mins       █████████████░░░░░░░░░░░░   53.49% 
+Python                   1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
+Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.89% 
+INI                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.52%
 
 🔥 Editors: 
-VS Code                  8 hrs 5 mins        █████████████████████████   99.87% 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+VS Code                  8 hrs 49 mins       █████████████████████████   99.88% 
+Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 ```
 
 
- Last Updated on 05/06/2026
+ Last Updated on 06/06/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
