@@ -26,20 +26,20 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     5 hrs 36 mins       ███████████████░░░░░░░░░░   61.15% 
-Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
-Python                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
-INI                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.43%
+Bash                     6 hrs 39 mins       ████████████████░░░░░░░░░   66.87% 
+Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.98% 
+INI                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.91%
 
 🔥 Editors: 
-VS Code                  9 hrs 9 mins        █████████████████████████   99.89% 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+VS Code                  9 hrs 56 mins       █████████████████████████   99.9% 
+Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 ```
 
 
- Last Updated on 07/06/2026
+ Last Updated on 08/06/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
