@@ -26,20 +26,19 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     6 hrs 39 mins       ████████████████░░░░░░░░░   66.87% 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.98% 
-INI                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.91%
+Bash                     5 hrs 11 mins       ████████████████░░░░░░░░░   66.3% 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.23% 
+Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.2%
 
 🔥 Editors: 
-VS Code                  9 hrs 56 mins       █████████████████████████   99.9% 
-Zed                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+VS Code                  7 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/06/2026
+ Last Updated on 09/06/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
