@@ -26,20 +26,20 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 5 mins        █████████████░░░░░░░░░░░░   54.54% 
-Markdown                 3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32% 
-Bash                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92%
+TypeScript               7 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.97% 
+Markdown                 3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.6% 
+Bash                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
+JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2%
 
 🔥 Editors: 
-VS Code                  14 hrs 54 mins      ██████████████████████░░░   89.48% 
-Claude Code              1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.52%
+VS Code                  13 hrs 52 mins      ███████████████████████░░   92.17% 
+Claude Code              1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.83%
 
 ```
 
 
- Last Updated on 25/06/2026
+ Last Updated on 26/06/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
