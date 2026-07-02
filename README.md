@@ -26,17 +26,16 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               19 mins             ████████████████░░░░░░░░░   65.28% 
-Bash                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   23.13% 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.6%
+TypeScript               33 mins             █████████████████████████   99.71% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.0%
+VS Code                  33 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/07/2026
+ Last Updated on 02/07/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
