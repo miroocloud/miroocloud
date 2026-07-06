@@ -14,10 +14,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.4% 
-🌆 Daytime    47 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.8% 
-🌃 Evening    170 commits    █████████████████░░░░░░░░   68.0% 
-🌙 Night      17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.8%
+🌞 Morning    16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
+🌆 Daytime    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
+🌃 Evening    170 commits    █████████████████░░░░░░░░   68.27% 
+🌙 Night      17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.83%
 
 ```
 
@@ -26,18 +26,18 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               53 mins             ███████████████████████░░   91.78% 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.91% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+TypeScript               1 hr 5 mins         ███████████████████████░░   93.1% 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.0%
+VS Code                  1 hr 10 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 05/07/2026
+ Last Updated on 06/07/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
