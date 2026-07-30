@@ -26,19 +26,19 @@
 
 ```text
 💬 Programming Languages: 
-Astro                    54 mins             ███████████████░░░░░░░░░░   60.64% 
-TypeScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.44% 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.54% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48%
+Astro                    38 mins             █████████████░░░░░░░░░░░░   51.91% 
+TypeScript               22 mins             ███████░░░░░░░░░░░░░░░░░░   31.08% 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.55% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81%
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.0%
+VS Code                  1 hr 13 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/07/2026
+ Last Updated on 30/07/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
