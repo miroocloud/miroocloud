@@ -26,19 +26,19 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.03% 
-Bash                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
-Vento                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.94% 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
-YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.29%
+Python                   3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   27.26% 
+TypeScript               2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
+Bash                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+Vento                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.86%
 
 🔥 Editors: 
-VS Code                  8 hrs 10 mins       █████████████████████████   100.0%
+VS Code                  12 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/08/2026
+ Last Updated on 08/08/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
