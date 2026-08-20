@@ -26,19 +26,19 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 46 mins       █████████████░░░░░░░░░░░░   54.59% 
-Svelte                   2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   22.51% 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.34% 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.38%
+TypeScript               6 hrs 6 mins        █████████████░░░░░░░░░░░░   53.11% 
+Other                    2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58% 
+Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
+Svelte                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.0% 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
 
 🔥 Editors: 
-VS Code                  12 hrs 24 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 30 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/08/2026
+ Last Updated on 20/08/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
