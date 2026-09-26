@@ -5,7 +5,7 @@
     <!-- <a href="https://fayln.com/projects">projects</a> . -->
     <a href="https://go.fayln.com/twitter">𝕏</a> .
     <a href="https://go.fayln.com/instagram">instagram</a> .
-    <a href="https://github.com/sponsors/miroocloud">sponsor</a>
+    <!-- <a href="https://github.com/sponsors/miroocloud">sponsor</a> -->
   </samp>
 </p>
 
