@@ -26,19 +26,21 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr                █████████░░░░░░░░░░░░░░░░   37.15% 
-TypeScript               46 mins             ███████░░░░░░░░░░░░░░░░░░   28.65% 
-Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.75% 
-TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.02%
+Markdown                 1 hr 5 mins         █████████████████░░░░░░░░   71.04% 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
 
 🔥 Editors: 
-VS Code                  2 hrs 42 mins       █████████████████████████   100.0%
+OMP                      58 mins             ███████████████░░░░░░░░░░   63.49% 
+VS Code                  33 mins             █████████░░░░░░░░░░░░░░░░   35.91% 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
 
 ```
 
 
- Last Updated on 08/10/2026
+ Last Updated on 10/10/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
