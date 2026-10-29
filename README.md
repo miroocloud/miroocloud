@@ -33,7 +33,7 @@ Rust                     45 mins             ██░░░░░░░░░�
 XML                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94%
 
 🔥 Editors: 
-VS Code                  4 hrs 27 mins       ████████████░░░░░░░░░░░░░   48.23% 
+VS Code                  4 hrs 27 mins       ████████████░░░░░░░░░░░░░   48.22% 
 OpenCode                 3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   42.48% 
 OMP                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
 Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
@@ -42,7 +42,7 @@ Opencode Cli             1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/10/2026
+ Last Updated on 29/10/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
