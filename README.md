@@ -26,23 +26,22 @@
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.95% 
-Bash                     2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   26.69% 
-Rust                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.92% 
-TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
-Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.58%
+Other                    3 hrs 23 mins       █████████████░░░░░░░░░░░░   53.67% 
+Rust                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
+Bash                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
+TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
+Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.37%
 
 🔥 Editors: 
-OpenCode                 3 hrs 49 mins       ████████████░░░░░░░░░░░░░   49.55% 
-VS Code                  3 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.4% 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62% 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
-OMP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+VS Code                  3 hrs 9 mins        ████████████░░░░░░░░░░░░░   50.01% 
+OpenCode                 3 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.06% 
+Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
+OMP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 ```
 
 
- Last Updated on 31/10/2026
+ Last Updated on 01/11/2026
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29797712)
